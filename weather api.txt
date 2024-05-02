@@ -1,0 +1,4 @@
+weather api = https://api.openweathermap.org/data/2.5/weather?q=Kisumu&appid=f07e3dbb2e67419a2847448d0b9b3590&units=metric
+
+
+result = {"coord":{"lon":34.7617,"lat":-0.1022},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"base":"stations","main":{"temp":21.14,"feels_like":21.29,"temp_min":21.14,"temp_max":21.14,"pressure":1013,"humidity":76,"sea_level":1013,"grnd_level":886},"visibility":10000,"wind":{"speed":1.17,"deg":278,"gust":1.5},"rain":{"1h":0.75},"clouds":{"all":9},"dt":1688571318,"sys":{"country":"KE","sunrise":1688528510,"sunset":1688572122},"timezone":10800,"id":191245,"name":"Kisumu","cod":200}
